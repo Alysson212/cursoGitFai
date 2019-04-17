@@ -1,2 +1,2 @@
 # cursoGitFai
-Curos de Git na Fai, dia 16/04/2019
+Cursos de Git na Fai, dia 16/04/2019
